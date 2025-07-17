@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/evalstate-mcp-miro-badge.png)](https://mseep.ai/app/evalstate-mcp-miro)
+
 # mcp-miro MCP Server
 [![smithery badge](https://smithery.ai/badge/@llmindset/mcp-miro)](https://smithery.ai/server/@llmindset/mcp-miro)
 
